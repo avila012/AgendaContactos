@@ -1,0 +1,4 @@
+C:\C#\Practica 5\AgendaContactos\AgendaContactos\AgendaContactos\bin\Debug\AgendaContactos.exe
+C:\C#\Practica 5\AgendaContactos\AgendaContactos\AgendaContactos\bin\Debug\AgendaContactos.pdb
+C:\C#\Practica 5\AgendaContactos\AgendaContactos\AgendaContactos\obj\Debug\AgendaContactos.exe
+C:\C#\Practica 5\AgendaContactos\AgendaContactos\AgendaContactos\obj\Debug\AgendaContactos.pdb
